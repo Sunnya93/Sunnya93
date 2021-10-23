@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunnya
-- 👀 I’m interested in Hybrid Mobile App, Cloud, Web, Docker
-- 🌱 I’m currently learning C#, ASP.NET Core, Docker
+- 👀 I’m interested in Backend Develop
+- 🌱 I’m currently learning Azure, .NET 5, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "moiay@naver.com"
 
