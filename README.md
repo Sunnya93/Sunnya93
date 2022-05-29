@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunnya
-- 👀 I’m interested in Backend Develop
-- 🌱 I’m currently learning Azure, .NET 5, Docker
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .NET
+- 🌱 I’m currently Blazor, MAUI
+- 💞️ I’m looking to collaborate on MAUI Community
 - 📫 How to reach me "moiay@naver.com"
 
 <!---
