@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunnya
 - 👀 I’m interested in .NET
-- 🌱 I’m currently Blazor, MAUI
-- 💞️ I’m looking to collaborate on MAUI Community
+- 🌱 I’m currently Blazor developer
+- 💞️ I’m looking to collaborate on MAUI, Blazor
 - 📫 How to reach me "moiay@naver.com"
 
 <!---
